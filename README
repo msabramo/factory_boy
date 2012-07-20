@@ -36,7 +36,7 @@ Defining factories
 
 Factories declare a set of attributes used to instantiate an object. The class of the object must be defined in the FACTORY_FOR attribute:
 
-.. code:
+.. code-block:: python
 
     import factory
     from models import User
